@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.2-dev
+Type=Application
+Terminal=false
+#Exec=env LD_LIBRARY_PATH="/opt/sdrpp/lib" /opt/sdrpp/bin/sdrpp -r /home/zhangquan/.config/sdrpp2
+Exec=env LD_LIBRARY_PATH="/opt/sdrpp/lib" /opt/sdrpp/bin/sdrpp
+Name=SDR++ Dev
+Icon=/opt/sdrpp/share/sdrpp/icons/sdrpp.png
+Categories=HamRadio
